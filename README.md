@@ -1,2 +1,7 @@
-# demo-js-construcciones
-Demo web para JS Construcciones — diseñada por eterlab.
+# JS Construcciones
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
